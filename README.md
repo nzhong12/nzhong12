@@ -7,7 +7,7 @@ Developing products is fun. But I think pairing programming with math and data i
 I also enjoy the challenge of academic contests. Crafting algorithms or formulas to solve real-world problems is always exciting, and I've joined an amazing community along the way.
 
 Currently, I am:
-- 🛡️ Interning at Raytheon as a software engineer  
+- 🛡️ Interning at Raytheon to support EarthData services
 - 🧬 Exploring diffusion models in medical imaging research  
 
 Thanks for stopping by! Feel free to reach out 😊  
