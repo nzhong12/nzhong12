@@ -2,7 +2,7 @@
 
 I'm Nathan, a coder and researcher at Brown University.
 
-Developing products is fun. But I think pairing programming with math and data is more exciting. To me, math is the *why* and *how*, while code gives freedom to explore the *what*. Whether it's graph theory or classical music, math reveals the underlying structure and theories. And only with code can I can bring them to life - through recommandation systems or melodic symphonies.
+Developing products is fun. But I think pairing programming with math and data is more exciting. To me, math is the *why* and *how*, while code gives freedom to explore the *what*. Whether it's graph theory or classical music, math reveals the underlying structure and theories. And only with code can we can bring them to life - through GPS systems or innovative melodies.
 
 I also love the challenge of academic contests. Crafting algorithms or formulas to solve real-world problems is always exciting, and I've joined amazing communities along the way.
 
