@@ -1,4 +1,4 @@
-# What's up!
+# 👋 What's up!
 
 I'm Nathan, a coder and researcher at Brown University.
 
@@ -7,7 +7,7 @@ Numbers have always fascinated me — not just because of their elegant interact
 I also love the challenge of coding contests. Typing up algorithms to solve real-world problems is always exciting, and I've met an amazing community of developers along the way.
 
 Currently, I am:
-- 🛠️ Interning at Raytheon as a software engineer
-- 🧬 Exploring diffusion models in medical imaging research
+- Interning at Raytheon as a software engineer
+- Exploring diffusion models in medical imaging research
 
-Thanks for stopping by! Feel free to reach out 😊  
+Thanks for stopping by! Feel free to reach out 
