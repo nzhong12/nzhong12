@@ -1,10 +1,13 @@
-# 👋 What's up!
+# What's up!
 
-I'm Nathan, a developer and researcher at Brown University studying Applied Math, Computer Science, and Economics.
+I'm Nathan, a coder and researcher at Brown University.
 
-I’m drawn to the hidden patterns behind everything — from the structure of a piano sonata to the flow of political ideas. Numbers are everywhere, and I love using math and code to make sense of them — transforming raw data into insight, impact, or innovation. 
+Numbers have always fascinated me — not just because of their elegant interactions, but for what they explain. Programming helps me understand numbers at a deeper level, going beyond mathematics to uncover why events happen, how systems behave, and how we can improve them.
 
-Currently, I’m interning at Raytheon as a software engineer, working on backend systems for secure data access. On the side, I’m researching diffusion models for anonymizing medical images — blending AI with privacy.
+I also love the challenge of coding contests. Typing up algorithms to solve real-world problems is always exciting, and I've met an amazing community of developers along the way.
 
-Thanks for stopping by! Feel free to reach out.
-📫 [nathan_zhong@brown.edu](mailto:nathan_zhong@brown.edu)
+Currently, I am:
+- 🛠️ Interning at Raytheon as a software engineer
+- 🧬 Exploring diffusion models in medical imaging research
+
+Thanks for stopping by! Feel free to reach out 😊  
