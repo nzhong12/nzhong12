@@ -6,8 +6,8 @@ Developing products is fun. But I think pairing programming with math and data i
 
 I also enjoy the challenge of academic contests. Crafting solutions to creative problems is always exciting, and I've joined an amazing community along the way.
 
-Currently, I am:
-- 🛡️ Interning at Raytheon to support EarthData services
-- 🧬 Exploring diffusion models in medical imaging research  
+I have:
+- 🛡️ Interned at Raytheon to support EarthData services
+- 🧬 Explored diffusion models in medical imaging, researched static analysis for open-source codebases
 
 Thanks for stopping by! Feel free to reach out 😊  
