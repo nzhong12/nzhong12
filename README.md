@@ -9,6 +9,6 @@ I also enjoy the challenge of academic contests. Crafting solutions to creative 
 A bit more about me:
 - Interned at <b>Raytheon</b> to develop EarthData services 🛡️ 
 - Explored diffusion models in medical imaging and researched static analysis for codebases at <b>Johns Hopkins University</b> 🧬 
-- Incoming swe intern @ <b>Coinbase</b>, Institutional Product Group 🏦
+- Incoming swe intern at <b>Coinbase</b>, Institutional Product Group 🏦
 
 Thanks for stopping by! Feel free to reach out 😊  
