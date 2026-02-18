@@ -7,8 +7,8 @@ Developing products with code is fun. But I think pairing programming with math 
 I also enjoy the challenge of academic contests. Crafting solutions to creative problems is always exciting, and I've joined an amazing community along the way.
 
 A bit more about me:
-- Interned at <b>Raytheon<b> to develop EarthData services 🛡️ 
-- Explored diffusion models in medical imaging and researched static analysis for open-source codebases at <b>Johns Hopkins University<b> 🧬 
-- Incoming swe intern @ <b>Coinbase<b>, Institutional Product Group 🏦
+- Interned at <p><b><b>Raytheon<p><b><b> to develop EarthData services 🛡️ 
+- Explored diffusion models in medical imaging and researched static analysis for open-source codebases at <p><b><b>Johns Hopkins University<p><b><b> 🧬 
+- Incoming swe intern @ <p><b><b>Coinbase<p><b><b>, Institutional Product Group 🏦
 
 Thanks for stopping by! Feel free to reach out 😊  
