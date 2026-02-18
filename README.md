@@ -1,4 +1,4 @@
-<img width="1527" height="1551" alt="image" src="https://github.com/user-attachments/assets/076c9c8f-05e8-4943-9d65-5f80b9d4c6a4" /># 👋 What's up!
+👋 What's up!
 
 I'm Nathan, a sophomore at Brown University studying applied math, computer science, and economics.
 
