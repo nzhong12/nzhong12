@@ -4,7 +4,7 @@ I'm Nathan, a sophomore at Brown University studying applied math, computer scie
 
 Developing products with code is fun. But I think pairing programming with math and data is even more exciting. To me, math is the *why* and *how*, while code gives freedom to explore the *what*. Whether it's graph theory or music theory, math reveals underlying structure — which I can code to life through pathfinding systems, stock clusters, melodic chorales, and more.
 
-I also enjoy the challenge of academic contests. Crafting solutions to creative problems is always exciting, and I've joined an amazing community along the way.
+I also enjoy academic contests. Crafting creative solutions is always exciting, and I've joined an amazing community along the way.
 
 A bit more about me:
 - Interned at <b>Raytheon</b> to develop EarthData services 🛡️ 
